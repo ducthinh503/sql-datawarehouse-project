@@ -1,6 +1,5 @@
 # 🏦 Data Warehouse & Analytics Project
 
-Welcome to the **Data Warehouse & Analytics Project** 🚀  
 This repository presents a **modern data warehousing solution** designed and implemented to demonstrate practical skills in **data engineering, data modeling, and analytics**.
 
 The project focuses on building a structured data warehouse using **Medallion Architecture (Bronze, Silver, Gold)** and enabling **SQL-based analytical insights** for business decision-making.
